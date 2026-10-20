@@ -1,17 +1,23 @@
-## Hi there 👋
+# Hi, I'm Ayush 👋
 
-<!--
-**wag9/wag9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science student specializing in AI/ML, interested in Python, machine learning, and building practical software projects.
 
-Here are some ideas to get you started:
-- 👯 I’m looking to collaborate on ...
+I'm currently focused on improving my development skills and learning how to turn data into useful applications.
 
--->
- 🔭 I’m currently working on exploring new skills and genres
-- 🌱 I’m currently learning WebDev and C
-- 🤔 I’m looking for help with 
-- 💬 Ask me about anything i will google it and get back to you 
-- 📫 How to reach me: ayushworkmail12@gmail.com
-- 😄 Pronouns: him
-- ⚡ Fun fact: i yap a lot
+## Projects
 
+### [Football Match Prediction](https://github.com/wag9/football-app)
+A football analytics project that predicts match outcomes across five major European leagues using historical results, Elo ratings, recent team form, and machine learning. Includes model evaluation and a web application.
+
+### [Online Learning Engagement Analysis](https://github.com/ujjwal176/mlproject)
+A machine learning project exploring early prediction of student outcomes using the Open University Learning Analytics Dataset (OULAD), with Logistic Regression and Random Forest models.
+
+## Tech Stack
+
+- **Languages:** Python, C
+- **Data & ML:** pandas, scikit-learn
+- **Currently exploring:** Web development, model evaluation, and backend development
+
+---
+
+Always learning, building, and improving.
