@@ -4,19 +4,18 @@ I'm a Computer Science student specializing in AI/ML, interested in Python, mach
 
 I'm currently focused on improving my development skills and learning how to turn data into useful applications.
 
-## Projects
+## Featured Project
 
 ### [Football Match Prediction](https://github.com/wag9/football-app)
-A football analytics project that predicts match outcomes across five major European leagues using historical results, Elo ratings, recent team form, and machine learning. Includes model evaluation and a web application.
 
-### [Online Learning Engagement Analysis](https://github.com/ujjwal176/mlproject)
-A machine learning project exploring early prediction of student outcomes using the Open University Learning Analytics Dataset (OULAD), with Logistic Regression and Random Forest models.
+A football analytics project that predicts match outcomes using historical results, Elo ratings, recent team form, and machine learning. Built with Python, featuring walk-forward validation and model evaluation.
 
 ## Tech Stack
 
-- **Languages:** Python, C
+- **Languages:** Python, C, JavaScript, PHP, SQL, HTML, CSS
 - **Data & ML:** pandas, scikit-learn
-- **Currently exploring:** Web development, model evaluation, and backend development
+- **Tools:** Git, GitHub, VS Code
+- **Currently exploring:** Web development, machine learning, and backend development
 
 ---
 
